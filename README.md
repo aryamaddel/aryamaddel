@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arya Maddel</h1>
+<h1 align="center">Hi <img src="/Users/aryamaddel/code/GitHub/aryamaddel/gifs/Hi.gif" width="30px">, I'm Arya Maddel</h1>
 <h3 align="center">Student at Sinhagad Institute of Technology🌟.</h3>
 
 <br>
