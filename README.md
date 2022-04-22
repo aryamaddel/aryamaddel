@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/aryamaddel/aryamaddel/blob/main/gifs/Hi.gif" width="30px">, I'm Arya Maddel</h1>
+<h1 align="center">Hi <img src="https://github.com/aryamaddel/aryamaddel/blob/main/gifs/Hi.gif" width="30px">, I'm Arya</h1>
 <h3 align="center">Student at Sinhagad Institute of Technology🌟.</h3>
 
 <br>
