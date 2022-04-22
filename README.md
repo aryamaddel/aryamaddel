@@ -54,4 +54,8 @@
 
 [![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryamaddel&show_icons=true&theme=onedark)](https://github.com/aryamaddel/github-readme-stats)
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryamaddel&show_icons=true&theme=onedark)](https://github.com/aryamaddel/github-readme-stats)
+
 [Arya Maddel](https://github.com/aryamaddel)
