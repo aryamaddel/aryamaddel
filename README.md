@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **maddelarya@gmail.com**
 
-- 🌐 My Site **https://frshtech.herokuapp.com**
+- 🌐 My Site **maintance**
 
 - ⚡ Fun fact :- chess and physics are the reasons to live.
 
