@@ -1,0 +1,21 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+.first {
+  height: 100%;
+  .hero {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    .headshot {
+      img {
+        padding: 1em;
+        width: 50%;
+      }
+    }
+  }
+}
