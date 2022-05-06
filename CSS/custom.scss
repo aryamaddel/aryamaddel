@@ -5,6 +5,7 @@ body {
   height: 100%;
   background-color: rgb(58, 58, 58);
   color: #ffffff;
+  font-family: monospace;
 }
 .first {
   height: 100%;
@@ -21,5 +22,9 @@ body {
         width: 50%;
       }
     }
+  }
+}
+.about-me {
+  .platforms {
   }
 }
