@@ -3,6 +3,8 @@ body {
   padding: 0;
   margin: 0;
   height: 100%;
+  background-color: #3a3a3a;
+  color: #ffffff;
 }
 
 .first {
@@ -10,6 +12,7 @@ body {
 }
 
 .first .hero {
+  height: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -18,13 +21,20 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.first .hero .headshot {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 .first .hero .headshot img {
-  padding: 1em;
   width: 50%;
 }
 /*# sourceMappingURL=custom.css.map */
