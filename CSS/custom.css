@@ -27,7 +27,14 @@ body {
 }
 
 .first .hero .headshot {
-  width: 25%;
+  width: 20%;
+  border-top-color: #4285f4;
+  border-right-color: #ea4335;
+  border-bottom-color: #fbbc05;
+  border-left-color: #34a853;
+  border-style: solid;
+  border-radius: 1em;
+  border-width: 0.75em;
 }
 
 .about-me {
