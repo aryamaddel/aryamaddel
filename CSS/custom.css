@@ -38,4 +38,24 @@ body {
 .first .hero .headshot img {
   width: 50%;
 }
+
+.about-me {
+  padding: 1em;
+}
+
+.about-me .platforms {
+  display: block;
+  text-align: center;
+}
+
+.about-me .platforms .links {
+  padding: 2em;
+}
+
+.about-me .platforms .links a {
+  color: white;
+  text-decoration: none;
+  font-size: 3em;
+  padding: 1em;
+}
 /*# sourceMappingURL=custom.css.map */
