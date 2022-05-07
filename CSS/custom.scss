@@ -16,17 +16,14 @@ body {
     align-items: center;
     justify-content: space-around;
     .headshot {
-      display: flex;
-      justify-content: center;
-      img {
-        width: 50%;
-      }
+      width: 25%;
     }
   }
 }
 .about-me {
   padding: 1em;
   .platforms {
+    margin-bottom: 10em;
     display: block;
     text-align: center;
     .links {
