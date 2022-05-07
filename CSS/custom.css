@@ -10,6 +10,7 @@ body {
 
 .first {
   height: 100%;
+  margin: 0 15rem 0 15rem;
 }
 
 .first .hero {
@@ -22,8 +23,9 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 
 .first .hero .headshot {
@@ -31,11 +33,11 @@ body {
 }
 
 .about-me {
-  padding: 1em;
+  margin: 0 15rem 0 15rem;
 }
 
 .about-me .platforms {
-  margin-bottom: 10em;
+  margin-bottom: 15em;
   display: block;
   text-align: center;
 }
@@ -49,5 +51,40 @@ body {
   text-decoration: none;
   font-size: 3em;
   padding: 1em;
+}
+
+.about-me .about {
+  margin-bottom: 30rem;
+}
+
+.about-me .about h2 {
+  font-size: 4em;
+}
+
+.netilfy-submissions {
+  margin: 0 15rem 0 15rem;
+}
+
+.netilfy-submissions h2 {
+  margin: 2em 0 2em 0;
+}
+
+.netilfy-submissions form {
+  padding-bottom: 2em;
+}
+
+.netilfy-submissions form button {
+  font-size: 1em;
+  padding: 0.3em;
+  border: solid white thin;
+  color: white;
+  background: none;
+}
+
+.netilfy-submissions form button:hover {
+  cursor: pointer;
+  background-color: red;
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
 }
 /*# sourceMappingURL=custom.css.map */

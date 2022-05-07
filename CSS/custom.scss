@@ -9,21 +9,22 @@ body {
 }
 .first {
   height: 100%;
+  margin: 0 15rem 0 15rem;
   .hero {
     height: 100%;
     display: flex;
     align-content: center;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     .headshot {
       width: 25%;
     }
   }
 }
 .about-me {
-  padding: 1em;
+  margin: 0 15rem 0 15rem;
   .platforms {
-    margin-bottom: 10em;
+    margin-bottom: 15em;
     display: block;
     text-align: center;
     .links {
@@ -33,6 +34,33 @@ body {
         text-decoration: none;
         font-size: 3em;
         padding: 1em;
+      }
+    }
+  }
+  .about {
+    margin-bottom: 30rem;
+    h2 {
+      font-size: 4em;
+    }
+  }
+}
+.netilfy-submissions {
+  margin: 0 15rem 0 15rem;
+  h2 {
+    margin: 2em 0 2em 0;
+  }
+  form {
+    padding-bottom: 2em;
+    button {
+      font-size: 1em;
+      padding: 0.3em;
+      border: solid white thin;
+      color: white;
+      background: none;
+      &:hover {
+        cursor: pointer;
+        background-color: red;
+        transition: 0.25s;
       }
     }
   }
