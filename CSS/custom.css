@@ -10,6 +10,7 @@ body {
 
 .first {
   height: 100%;
+  margin: 0 15rem 0 15rem;
 }
 
 .first .hero {
@@ -22,23 +23,17 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 
 .first .hero .headshot {
   width: 20%;
-  border-top-color: #4285f4;
-  border-right-color: #ea4335;
-  border-bottom-color: #fbbc05;
-  border-left-color: #34a853;
-  border-style: solid;
-  border-radius: 1em;
-  border-width: 0.75em;
 }
 
 .about-me {
-  padding: 1em;
+  margin: 0 15rem 0 15rem;
 }
 
 .about-me .platforms {
@@ -56,5 +51,13 @@ body {
   text-decoration: none;
   font-size: 3em;
   padding: 1em;
+}
+
+.about-me .about {
+  margin-bottom: 10rem;
+}
+
+.netilfy-submissions {
+  margin: 0 15rem 0 15rem;
 }
 /*# sourceMappingURL=custom.css.map */
