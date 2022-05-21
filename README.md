@@ -18,6 +18,10 @@
 
 <br>
 
+- ![](https://visitor-badge.glitch.me/badge?page_id=aryamaddel.aryamaddel)
+
+<br>
+
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
