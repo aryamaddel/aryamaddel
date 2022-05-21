@@ -18,7 +18,7 @@
 
 <br>
 
-- ![](https://visitor-badge.glitch.me/badge?page_id=aryamaddel.aryamaddel)
+- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=aryamaddel.visitor-badge&left_color=red&right_color=white&left_text=Hello%20Visitors)
 
 <br>
 
