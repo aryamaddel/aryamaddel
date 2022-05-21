@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **maddelarya@gmail.com**
 
-- 🌐 My Site : https://aryamaddel.netlify.app/
+- 🌐 My Site : https://aryamaddel.netlify.app
   <br />
   <br />
   [![Netlify Status](https://api.netlify.com/api/v1/badges/f4c2b1ad-2460-4811-a991-0609bbd4ac09/deploy-status)](https://app.netlify.com/sites/aryamaddel/deploys)
