@@ -18,7 +18,7 @@
 
 <br>
 
-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=aryamaddel.visitor-badge&left_color=red&right_color=black&left_text=Hello%20Visitors)
+- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br>
 
