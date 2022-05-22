@@ -4,7 +4,6 @@
 <br>
 
 <!-- Status -->
-<p><img align="right" src="https://github.com/aryamaddel/aryamaddel/blob/main/gifs/animation_500_kxa883sd.gif" alt="" /></p>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
