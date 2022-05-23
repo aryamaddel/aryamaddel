@@ -14,6 +14,9 @@
   <br />
   [![Netlify Status](https://api.netlify.com/api/v1/badges/f4c2b1ad-2460-4811-a991-0609bbd4ac09/deploy-status)](https://app.netlify.com/sites/aryamaddel/deploys)
 - ⚡ Fun fact :- chess and physics are the reasons to live.
+<br>
+
+- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faryamaddel%2Faryamaddel&labelColor=%23d9e3f0&countColor=%23f47373)
 
 <br>
 
