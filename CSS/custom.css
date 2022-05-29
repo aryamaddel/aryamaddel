@@ -5,21 +5,61 @@ body {
   color: #c6bfb3;
 }
 
-.first .hero .hero-intro {
+.first {
+  margin: 30% 0 30% 0;
+}
+
+.first .hero {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
 }
 
-.first .hero .hero-intro .hero-info {
+.first .hero .hero-info {
   display: block;
 }
 
-.first .hero .hero-intro .illus-1 {
+.first .hero .hero-info h2 {
+  font-size: 1em;
+}
+
+.first .hero .illus-1 {
   width: 50%;
   height: 50%;
+}
+
+.about-me {
+  margin: 30% 0 30% 0;
+}
+
+.about-me .platforms {
+  margin: 0 0 30% 0;
+}
+
+.about-me .platforms .links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin: 10% 0 10% 0;
+  font-size: 2em;
+}
+
+.about-me .platforms .links i {
+  color: #c6bfb3;
+}
+
+.about-me .about {
+  margin: 0 0 30% 0;
 }
 /*# sourceMappingURL=custom.css.map */

@@ -4,18 +4,44 @@ body {
   background: rgb(38, 49, 68);
   color: rgb(198, 191, 179);
 }
+
+// Intro
 .first {
+  margin: 30% 0 30% 0;
   .hero {
-    .hero-intro {
-      display: flex;
-      align-items: center;
-      .hero-info {
-        display: block;
-      }
-      .illus-1 {
-        width: 50%;
-        height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    .hero-info {
+      display: block;
+      h2 {
+        font-size: 1em;
       }
     }
+    .illus-1 {
+      width: 50%;
+      height: 50%;
+    }
+  }
+}
+
+// About Me
+.about-me {
+  margin: 30% 0 30% 0;
+  .platforms {
+    margin: 0 0 30% 0;
+    .links {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      margin: 10% 0 10% 0;
+      font-size: 2em;
+      i {
+        color: rgb(198, 191, 179);
+      }
+    }
+  }
+  .about {
+    margin: 0 0 30% 0;
   }
 }
