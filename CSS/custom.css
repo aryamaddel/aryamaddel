@@ -6,7 +6,7 @@ body {
 }
 
 .first {
-  margin: 30% 0 30% 0;
+  margin: 4em 0 6em 0;
 }
 
 .first .hero {
@@ -34,11 +34,11 @@ body {
 }
 
 .about-me {
-  margin: 30% 0 30% 0;
+  margin: 6em 0 6em 0;
 }
 
 .about-me .platforms {
-  margin: 0 0 30% 0;
+  margin: 0 0 6em 0;
 }
 
 .about-me .platforms .links {
@@ -60,6 +60,6 @@ body {
 }
 
 .about-me .about {
-  margin: 0 0 30% 0;
+  margin: 0 0 6em 0;
 }
 /*# sourceMappingURL=custom.css.map */
