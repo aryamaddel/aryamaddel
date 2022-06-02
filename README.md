@@ -7,7 +7,7 @@
 
 <!-- Status -->
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 learning Web Development and other programming languages
 
 - 📫 How to reach me **maddelarya@gmail.com**
 
