@@ -2,7 +2,7 @@
 <h3 align="center">Student at Sinhagad Institute of Technology🌟</h3>
 
 <br>
-<p><img align="right" src="https://github.com/aryamaddel/aryamaddel/blob/main/gifs/animation_500_kxa883sd.gif" width="45%" alt="Arya Maddel" /></p>
+<p><img align="right" src="https://github.com/aryamaddel/aryamaddel/blob/main/gifs/PYh.gif" width="40%" alt="Arya Maddel" /></p>
 <br>
 
 <!-- Status -->
