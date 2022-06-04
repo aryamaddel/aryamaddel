@@ -8,9 +8,9 @@
 <!-- Status -->
 
 - 🌱 learning Web Development and other programming languages
-
+  <br />
 - 📫 How to reach me **maddelarya@gmail.com**
-
+  <br />
 - 🌐 My Site : https://aryamaddel.netlify.app
   <br />
   <br />
@@ -42,6 +42,13 @@
       width="50"
     />
   </a>
+  <a href="mailto:maddelarya@gmail.com" target="blank"
+    ><img
+      src="https://img.icons8.com/stickers/100/undefined/gmail-new.png"
+      width="50"
+      alt="aryamaddel's gmail account"
+    />
+  </a>
 </p>
 
 <br />
@@ -49,6 +56,22 @@
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"
+      alt="flask"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -101,14 +124,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
       width="40"
       height="40"
     />
