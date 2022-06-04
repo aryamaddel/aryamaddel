@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
-<h3 align="center">Student at Sinhagad Institute of Technology🌟.</h3>
+<h3 align="center">Student at Sinhagad Institute of Technology🌟</h3>
 
 <br>
 <p><img align="right" src="https://github.com/aryamaddel/aryamaddel/blob/main/gifs/animation_500_kxa883sd.gif" width="45%" alt="Arya Maddel" /></p>
@@ -8,8 +8,6 @@
 <!-- Status -->
 
 - 🌱 learning Web Development and other programming languages
-  <br />
-- 📫 How to reach me **maddelarya@gmail.com**
   <br />
 - 🌐 My Site : https://aryamaddel.netlify.app
   <br />
