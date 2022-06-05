@@ -40,6 +40,13 @@
       width="50"
     />
   </a>
+  <a href="https://stackoverflow.com/users/16029703/arya" target="blank"
+    ><img
+      src="https://img.icons8.com/stickers/100/undefined/stackoverflow.png"
+      alt="aryamaddel's stack overflow profile"
+      width="50"
+    />
+  </a>
   <a href="mailto:maddelarya@gmail.com" target="blank"
     ><img
       src="https://img.icons8.com/stickers/100/undefined/gmail-new.png"
