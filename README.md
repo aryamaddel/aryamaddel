@@ -145,15 +145,18 @@
 
 <br />
 
+<!-- OS -->
+<h3 align="left">OS-</h3>
+<br />
+
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<br />
+
 <!-- Github stats -->
 
 [![Arya's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=aryamaddel&show_icons=true&theme=onedark)](https://github.com/aryamaddel/github-readme-stats)
-
-<br />
-
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryamaddel&show_icons=true&theme=onedark)](https://github.com/aryamaddel/github-readme-stats)
 
 <br />
 
