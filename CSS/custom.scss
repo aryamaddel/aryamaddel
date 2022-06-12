@@ -1,7 +1,7 @@
 html {
   background: rgb(41, 43, 47);
   body {
-    margin: 5%;
+    margin: 5% 15% 5% 15%;
     color: rgb(198, 191, 179);
   }
 }
@@ -12,7 +12,7 @@ html {
   .hero {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     .hero-info {
       display: block;
       h2 {
@@ -20,7 +20,7 @@ html {
       }
     }
     .illus-1 {
-      width: 10em;
+      display: none;
     }
   }
 }
@@ -50,7 +50,9 @@ html {
   // Intro
   .first {
     .hero {
+      justify-content: space-between;
       .illus-1 {
+        display: block;
         width: 15em;
       }
     }

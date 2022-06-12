@@ -3,7 +3,7 @@ html {
 }
 
 html body {
-  margin: 5%;
+  margin: 5% 15% 5% 15%;
   color: #c6bfb3;
 }
 
@@ -18,8 +18,9 @@ html body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 .first .hero .hero-info {
@@ -31,7 +32,7 @@ html body {
 }
 
 .first .hero .illus-1 {
-  width: 10em;
+  display: none;
 }
 
 .about-me {
@@ -65,7 +66,13 @@ html body {
 }
 
 @media (min-width: 769px) {
+  .first .hero {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
   .first .hero .illus-1 {
+    display: block;
     width: 15em;
   }
 }
