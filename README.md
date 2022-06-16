@@ -67,7 +67,7 @@
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"
+      src="images/kisspng-flask-python-bottle-web-framework-web-application-flask-5ace6e94133f66.5495283515234781640788.png"
       alt="flask"
       width="40"
       height="40"
