@@ -18,7 +18,7 @@
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/arya-maddel/" target="blank"
+  <a href="https://www.linkedin.com/in/arya-maddel-1779b3231/" target="blank"
     ><img
       src="https://img.icons8.com/color/48/undefined/linkedin.png"
       alt="aryamaddel's linkdin profile"
